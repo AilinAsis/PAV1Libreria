@@ -1,0 +1,14 @@
+C:\Users\Rivata\Desktop\Facultad 2018\PAV I\Proyectos\Innovazione\Innovazione\bin\Debug\Innovazione.exe.config
+C:\Users\Rivata\Desktop\Facultad 2018\PAV I\Proyectos\Innovazione\Innovazione\bin\Debug\Innovazione.exe
+C:\Users\Rivata\Desktop\Facultad 2018\PAV I\Proyectos\Innovazione\Innovazione\bin\Debug\Innovazione.pdb
+C:\Users\Rivata\Desktop\Facultad 2018\PAV I\Proyectos\Innovazione\Innovazione\obj\Debug\Innovazione.csprojAssemblyReference.cache
+C:\Users\Rivata\Desktop\Facultad 2018\PAV I\Proyectos\Innovazione\Innovazione\obj\Debug\Innovazione.frmCliente.resources
+C:\Users\Rivata\Desktop\Facultad 2018\PAV I\Proyectos\Innovazione\Innovazione\obj\Debug\Innovazione.frmLogin.resources
+C:\Users\Rivata\Desktop\Facultad 2018\PAV I\Proyectos\Innovazione\Innovazione\obj\Debug\Innovazione.frmPrincipal.resources
+C:\Users\Rivata\Desktop\Facultad 2018\PAV I\Proyectos\Innovazione\Innovazione\obj\Debug\Innovazione.Properties.Resources.resources
+C:\Users\Rivata\Desktop\Facultad 2018\PAV I\Proyectos\Innovazione\Innovazione\obj\Debug\Innovazione.csproj.GenerateResource.cache
+C:\Users\Rivata\Desktop\Facultad 2018\PAV I\Proyectos\Innovazione\Innovazione\obj\Debug\Innovazione.csproj.CoreCompileInputs.cache
+C:\Users\Rivata\Desktop\Facultad 2018\PAV I\Proyectos\Innovazione\Innovazione\obj\Debug\Innovazione.exe
+C:\Users\Rivata\Desktop\Facultad 2018\PAV I\Proyectos\Innovazione\Innovazione\obj\Debug\Innovazione.pdb
+C:\Users\Rivata\Desktop\Facultad 2018\PAV I\Proyectos\Innovazione\Innovazione\obj\Debug\Innovazione.frmUsuario.resources
+C:\Users\Rivata\Desktop\Facultad 2018\PAV I\Proyectos\Innovazione\Innovazione\obj\Debug\Innovazione.GUILayer.frmABMUsuario.resources
