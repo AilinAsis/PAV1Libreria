@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace Innovazione.Bussines_Layer
 {
-    class DetalleCompra
+    public class DetalleCompra
     {
         public int idEgreso { get; set; }
         public int idProducto { get; set; }
         public string nombreProducto { get; set; }
         public int cantidad { get; set; }
+        public string subTotal { get; set; }
     }
 }
